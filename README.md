@@ -1,6 +1,5 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-NAME:RAJAMANIKANDAN R
-REG NO:212223220082
+
 ## AIM
 To write a python program to perform sliding window protocol.
 ## ALGORITHM:
